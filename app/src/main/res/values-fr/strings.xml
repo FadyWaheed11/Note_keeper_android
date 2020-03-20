@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="attachment_summary_off">Télécharger uniquement les pièces jointes sur demande spécifique</string>
+    <string name="attachment_summary_on">Télécharger automatiquement les pièces jointes pour les emails entrants</string>
+    <string name="attachment_title">Télécharger les pièces jointes entrantes</string>
+    <string name="cancel">Annuler</string>
+    <string name="communicate">Communiquer</string>
+    <string name="courses">Les cours</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_send">Envoyer</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="menu_tools">Des outils</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="nav_send">Envoyer</string>
+    <string name="nav_share">Don\'t you think you have shared enough</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="pref_default_display_name">Votre nom</string>
+    <string name="notes">Les notes</string>
+    <string name="pref_title_display_name">Nom d\'affichage</string>
+    <string name="pref_title_email_address">Votre email</string>
+    <string name="pref_title_favorite_social">Réseau social préféré</string>
+    <string name="reply_title">Action de réponse par défaut</string>
+    <string name="send_mail">Envoyer un mail</string>
+    <string name="signature_title">Votre signature</string>
+    <string name="sync_title">Synchroniser les emails périodiquement</string>
+</resources>
